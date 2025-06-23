@@ -17,7 +17,7 @@ export default function Navbar() {
         <li onClick={() => scrollToSection("contact")} className="hover:text-purple-400 transition-all cursor-pointer">CONTACT</li>
         <li>
           <a
-            href="portfolio\public\New_resume_final.pdf"
+            href="/New_resume_final.pdf"
             download
             className="hover:text-purple-400 transition-all"
           >
